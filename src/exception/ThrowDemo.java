@@ -14,6 +14,8 @@ public class ThrowDemo {
         Person p = new Person();
         p.setAge(1000);
 
+
+
         System.out.println("此人年龄:"+p.getAge());
 
         System.out.println("程序结束了！");
